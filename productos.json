@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "title": "Iqui",
+      "description": "taba",
+      "price": 90000,
+      "thumbnail": "123454354",
+      "code": "hfihsdf",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "title": "producto prueba",
+      "description": "Este es un producto prueba",
+      "price": 200,
+      "thumbnail": "Sin Imagen",
+      "code": "abc123",
+      "stock": 25
+    }
+  ]
+}
